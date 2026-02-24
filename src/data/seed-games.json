@@ -1,0 +1,22 @@
+[
+  {"title":"Helldivers 2","platform":"Steam","steamAppId":553850,"genres":["Action","Co-op"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg"},
+  {"title":"Baldur's Gate 3","platform":"Steam","steamAppId":1086940,"genres":["RPG","Adventure"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg"},
+  {"title":"Hades II","platform":"Steam","steamAppId":1145350,"genres":["Roguelike","Indie","Action"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1145350/header.jpg"},
+  {"title":"Elden Ring","platform":"Steam","steamAppId":1245620,"genres":["RPG","Action"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg"},
+  {"title":"Cyberpunk 2077","platform":"Steam","steamAppId":1091500,"genres":["RPG","Action"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg"},
+  {"title":"Doom Eternal","platform":"Steam","steamAppId":782330,"genres":["FPS","Action"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/782330/header.jpg"},
+  {"title":"Manor Lords","platform":"Steam","steamAppId":1363080,"genres":["RTS","Simulation","Strategy"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1363080/header.jpg"},
+  {"title":"Age of Empires IV","platform":"Steam","steamAppId":1466860,"genres":["RTS","Strategy"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1466860/header.jpg"},
+  {"title":"Final Fantasy VII Rebirth","platform":"Console","genres":["RPG","Adventure"],"status":"Backlog","coverUrl":"https://images.unsplash.com/photo-1593305841991-05c297ba4575?q=80&w=1200&auto=format&fit=crop"},
+  {"title":"Tekken 8","platform":"Steam","steamAppId":1778820,"genres":["Action","Competitive"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/header.jpg"},
+  {"title":"Pacific Drive","platform":"Steam","steamAppId":1458140,"genres":["Survival","Indie"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1458140/header.jpg"},
+  {"title":"Palworld","platform":"Steam","steamAppId":1623730,"genres":["Survival","Co-op"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg"},
+  {"title":"No Rest for the Wicked","platform":"Steam","steamAppId":1371980,"genres":["RPG","Action"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1371980/header.jpg"},
+  {"title":"Remnant II","platform":"Steam","steamAppId":1282100,"genres":["Action","RPG","Co-op"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1282100/header.jpg"},
+  {"title":"Balatro","platform":"Steam","steamAppId":2379780,"genres":["Indie","Roguelike","Strategy"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/header.jpg"},
+  {"title":"Lies of P","platform":"Steam","steamAppId":1627720,"genres":["Action","RPG"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1627720/header.jpg"},
+  {"title":"Dave the Diver","platform":"Steam","steamAppId":1868140,"genres":["Indie","Adventure","Simulation"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/header.jpg"},
+  {"title":"Street Fighter 6","platform":"Steam","steamAppId":1364780,"genres":["Action","Competitive"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/header.jpg"},
+  {"title":"Against the Storm","platform":"Steam","steamAppId":1336490,"genres":["Strategy","Roguelike"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1336490/header.jpg"},
+  {"title":"Animal Well","platform":"Steam","steamAppId":813230,"genres":["Indie","Puzzle","Adventure"],"status":"Backlog","coverUrl":"https://cdn.cloudflare.steamstatic.com/steam/apps/813230/header.jpg"}
+]
